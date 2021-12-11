@@ -2,7 +2,7 @@
 # Licensed under the GNU Affero General Public License (AGPL).
 # See License-AGPL.txt in the project root for license information.
 
-FROM ubuntu:21.04
+FROM ubuntu:impish-20210928
 
 COPY install-packages /usr/bin
 
