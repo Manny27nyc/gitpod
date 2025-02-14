@@ -40,7 +40,7 @@
         "@types/react": "17.0.32",
         "ajv": "^6.5.4",
         "analytics-node": "^4.0.1",
-        "cookie": "^0.4.1",
+        "cookie": "^1.0.2",
         "inversify": "^5.1.1",
         "jaeger-client": "^3.18.1",
         "js-yaml": "^3.10.0",
@@ -57,6 +57,6 @@
         "vscode-languageserver-types": "3.16.0",
         "vscode-uri": "^1.0.1",
         "vscode-ws-jsonrpc": "^0.2.0",
-        "ws": "^7.4.6"
+        "ws": "^8.18.0"
     }
 }
