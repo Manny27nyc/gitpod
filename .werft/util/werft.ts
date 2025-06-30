@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Span, Tracer, trace, context, SpanStatusCode } from '@opentelemetry/api';
 import { exec } from './shell';
 

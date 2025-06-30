@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 declare namespace Definitions {
     export type NotifyRequestLevel = "ERROR" | "WARNING" | "INFO";
     export interface ProtobufAny {

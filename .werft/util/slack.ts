@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as https from 'https';
 
 export function reportBuildFailureInSlack(context, err, onErr) {

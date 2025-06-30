@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // GENERATED CODE -- DO NOT EDIT!
 
 // Original file comments:

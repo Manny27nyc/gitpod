@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { exec, ExecOptions } from './shell';
 import { sleep } from './util';
 

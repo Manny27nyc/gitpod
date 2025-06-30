@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Werft } from './util/werft'
 import { wipePreviewEnvironment, listAllPreviewNamespaces } from './util/kubectl';
 import * as fs from 'fs';

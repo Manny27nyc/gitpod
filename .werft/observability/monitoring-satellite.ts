@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { exec } from '../util/shell';
 import { getGlobalWerftInstance } from '../util/werft';
 import * as shell from 'shelljs';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ExecOptions } from "./shell";
 
 export async function sleep(millis: number) {
